@@ -1,4 +1,4 @@
 # bookbot
 BookBot is my first project!
 
-Build a BookBot in Python Boot.dev
+Bookbot takes input of a text file and will return a report listing the word count as well as the number of times eat alphabet character was use. 
