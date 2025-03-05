@@ -19,7 +19,7 @@ def main():
     print(f"{num_words} words found in the document\n")
 
     for char, count in sorted_char_counts:
-        print(f"The '{char}: character was found {count} times")
+        print(f"The '{char}: character was found {count}' times")
 
     print("--- End report ---")
 
